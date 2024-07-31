@@ -10,4 +10,4 @@ Random Colors: Colors and text are randomly shuffled for each round.
 Requirements
 Python 3.x
 tkinter library (usually included with Python)
-Installation
+
